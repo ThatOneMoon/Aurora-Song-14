@@ -2511,3 +2511,24 @@ Entries:
   id: 9666
   time: '2026-07-30T06:38:14.0000000+00:00'
   url: https://github.com/AuroraSong14/Aurora-Song-14/pull/1319
+- author: salamanderskies
+  changes:
+    - type: Fix
+      message: Resin windows can now be built on top of grilles.
+  id: 9667
+  time: '2026-07-31T03:46:13.0000000+00:00'
+  url: https://github.com/AuroraSong14/Aurora-Song-14/pull/1325
+- author: salamanderskies
+  changes:
+    - type: Add
+      message: (Some) Nuclear 14 tiles are now printable in the cutter.
+  id: 9668
+  time: '2026-07-31T03:51:51.0000000+00:00'
+  url: https://github.com/AuroraSong14/Aurora-Song-14/pull/1322
+- author: BudaLope
+  changes:
+    - type: Tweak
+      message: Ovinia min and max height made default
+  id: 9669
+  time: '2026-07-31T04:27:54.0000000+00:00'
+  url: https://github.com/AuroraSong14/Aurora-Song-14/pull/1328
