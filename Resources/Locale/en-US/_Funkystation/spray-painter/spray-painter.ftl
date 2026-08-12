@@ -16,3 +16,4 @@ spray-painter-style-cardboard-medical = Medical
 spray-painter-style-cardboard-science = Science
 spray-painter-style-cardboard-security = Security
 spray-painter-style-cardboard-service = Service
+spray-painter-style-cardboard-botany = Botany

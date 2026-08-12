@@ -2,13 +2,13 @@
   id: BoxFunLizardPlushieBulk
   parent: CardboardBoxLargeWeh
   name: bulk lizard plushie box
-  description: A buncha soft lizard plushies. Throw them around and then wonder how you're gonna explain this purchase to NT.
+  description: A buncha soft lizard plushies. Throw them around, hug them, wear them, wonder how you're gonna explain this purchase to your friends and co-workers.
   components:
   - type: StorageFill
     contents:
-    - id: PlushieLizard
+    - id: MysteryWehBox
       amount: 3
-    - id: PlushieSpaceLizard
+    - id: PlushieLizard
       amount: 3
 
 - type: entity

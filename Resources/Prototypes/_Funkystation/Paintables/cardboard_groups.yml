@@ -8,7 +8,7 @@
     restock: CardboardBoxLargeRestock
     weh: CardboardBoxLargeWeh
     internals: CardboardBoxLargeInternals
-#    botany: CardboardBoxLargeBotany
+    botany: CardboardBoxLargeBotany
     cargo: CardboardBoxLargeCargo
     chemistry: CardboardBoxLargeChemisty
     command: CardboardBoxLargeCommand
