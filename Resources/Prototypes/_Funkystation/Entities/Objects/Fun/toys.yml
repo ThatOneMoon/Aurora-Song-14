@@ -36,6 +36,8 @@
   name: art supplies
   description: Make some happy little accidents with lots of crayons!
   components:
-    storagebase: !type:AllSelector
-      children:
-      - id: CrayonBox
+  - type: EntityTableContainerFill # Aurora's Song - StorageFill>EntityTableContainerFill
+    containers:
+      storagebase: !type:AllSelector
+        children:
+        - id: CrayonBox
